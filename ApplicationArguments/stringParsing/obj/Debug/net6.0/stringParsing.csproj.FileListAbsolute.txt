@@ -1,0 +1,15 @@
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\stringParsing\bin\Debug\net6.0\stringParsing.exe
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\stringParsing\bin\Debug\net6.0\stringParsing.deps.json
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\stringParsing\bin\Debug\net6.0\stringParsing.runtimeconfig.json
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\stringParsing\bin\Debug\net6.0\stringParsing.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\stringParsing\bin\Debug\net6.0\stringParsing.pdb
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\stringParsing\obj\Debug\net6.0\stringParsing.csproj.AssemblyReference.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\stringParsing\obj\Debug\net6.0\stringParsing.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\stringParsing\obj\Debug\net6.0\stringParsing.AssemblyInfoInputs.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\stringParsing\obj\Debug\net6.0\stringParsing.AssemblyInfo.cs
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\stringParsing\obj\Debug\net6.0\stringParsing.csproj.CoreCompileInputs.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\stringParsing\obj\Debug\net6.0\stringParsing.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\stringParsing\obj\Debug\net6.0\refint\stringParsing.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\stringParsing\obj\Debug\net6.0\stringParsing.pdb
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\stringParsing\obj\Debug\net6.0\stringParsing.genruntimeconfig.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\stringParsing\obj\Debug\net6.0\ref\stringParsing.dll

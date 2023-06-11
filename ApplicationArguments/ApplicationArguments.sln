@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastingAndValueTypeConversi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{8EA8B280-BCBA-4C74-9D88-750287D5634B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringParsing", "stringParsing\stringParsing.csproj", "{46AD8417-47A7-4664-9C4D-A200EF4D6682}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8EA8B280-BCBA-4C74-9D88-750287D5634B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EA8B280-BCBA-4C74-9D88-750287D5634B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EA8B280-BCBA-4C74-9D88-750287D5634B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46AD8417-47A7-4664-9C4D-A200EF4D6682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46AD8417-47A7-4664-9C4D-A200EF4D6682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46AD8417-47A7-4664-9C4D-A200EF4D6682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46AD8417-47A7-4664-9C4D-A200EF4D6682}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
