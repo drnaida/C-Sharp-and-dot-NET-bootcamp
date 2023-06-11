@@ -1,0 +1,15 @@
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\DateTime\bin\Debug\net6.0\DateTime.exe
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\DateTime\bin\Debug\net6.0\DateTime.deps.json
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\DateTime\bin\Debug\net6.0\DateTime.runtimeconfig.json
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\DateTime\bin\Debug\net6.0\DateTime.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\DateTime\bin\Debug\net6.0\DateTime.pdb
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\DateTime\obj\Debug\net6.0\DateTime.csproj.AssemblyReference.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\DateTime\obj\Debug\net6.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfoInputs.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfo.cs
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\DateTime\obj\Debug\net6.0\DateTime.csproj.CoreCompileInputs.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\DateTime\obj\Debug\net6.0\DateTime.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\DateTime\obj\Debug\net6.0\refint\DateTime.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\DateTime\obj\Debug\net6.0\DateTime.pdb
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\DateTime\obj\Debug\net6.0\DateTime.genruntimeconfig.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\DateTime\obj\Debug\net6.0\ref\DateTime.dll
