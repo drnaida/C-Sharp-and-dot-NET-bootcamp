@@ -1,0 +1,15 @@
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\ConsoleInput\bin\Debug\net6.0\ConsoleInput.exe
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\ConsoleInput\bin\Debug\net6.0\ConsoleInput.deps.json
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\ConsoleInput\bin\Debug\net6.0\ConsoleInput.runtimeconfig.json
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\ConsoleInput\bin\Debug\net6.0\ConsoleInput.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\ConsoleInput\bin\Debug\net6.0\ConsoleInput.pdb
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\ConsoleInput\obj\Debug\net6.0\ConsoleInput.csproj.AssemblyReference.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\ConsoleInput\obj\Debug\net6.0\ConsoleInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\ConsoleInput\obj\Debug\net6.0\ConsoleInput.AssemblyInfoInputs.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\ConsoleInput\obj\Debug\net6.0\ConsoleInput.AssemblyInfo.cs
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\ConsoleInput\obj\Debug\net6.0\ConsoleInput.csproj.CoreCompileInputs.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\ConsoleInput\obj\Debug\net6.0\ConsoleInput.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\ConsoleInput\obj\Debug\net6.0\refint\ConsoleInput.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\ConsoleInput\obj\Debug\net6.0\ConsoleInput.pdb
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\ConsoleInput\obj\Debug\net6.0\ConsoleInput.genruntimeconfig.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\ConsoleInput\obj\Debug\net6.0\ref\ConsoleInput.dll
