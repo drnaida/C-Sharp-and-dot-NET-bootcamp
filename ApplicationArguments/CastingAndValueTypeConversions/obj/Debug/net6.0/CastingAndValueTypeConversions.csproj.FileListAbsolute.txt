@@ -1,0 +1,15 @@
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\CastingAndValueTypeConversions\obj\Debug\net6.0\CastingAndValueTypeConversions.csproj.AssemblyReference.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\CastingAndValueTypeConversions\obj\Debug\net6.0\CastingAndValueTypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\CastingAndValueTypeConversions\obj\Debug\net6.0\CastingAndValueTypeConversions.AssemblyInfoInputs.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\CastingAndValueTypeConversions\obj\Debug\net6.0\CastingAndValueTypeConversions.AssemblyInfo.cs
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\CastingAndValueTypeConversions\obj\Debug\net6.0\CastingAndValueTypeConversions.csproj.CoreCompileInputs.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\CastingAndValueTypeConversions\bin\Debug\net6.0\CastingAndValueTypeConversions.exe
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\CastingAndValueTypeConversions\bin\Debug\net6.0\CastingAndValueTypeConversions.deps.json
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\CastingAndValueTypeConversions\bin\Debug\net6.0\CastingAndValueTypeConversions.runtimeconfig.json
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\CastingAndValueTypeConversions\bin\Debug\net6.0\CastingAndValueTypeConversions.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\CastingAndValueTypeConversions\bin\Debug\net6.0\CastingAndValueTypeConversions.pdb
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\CastingAndValueTypeConversions\obj\Debug\net6.0\CastingAndValueTypeConversions.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\CastingAndValueTypeConversions\obj\Debug\net6.0\refint\CastingAndValueTypeConversions.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\CastingAndValueTypeConversions\obj\Debug\net6.0\CastingAndValueTypeConversions.pdb
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\CastingAndValueTypeConversions\obj\Debug\net6.0\CastingAndValueTypeConversions.genruntimeconfig.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\CastingAndValueTypeConversions\obj\Debug\net6.0\ref\CastingAndValueTypeConversions.dll
