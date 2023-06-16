@@ -7,8 +7,7 @@ person1.PrintGreeting();
 string greeting = person1.GetGreeting();
 Console.WriteLine(greeting);
 
-Math math = new Math();
-int result = math.Sum(14, 16);
+int result = Math.Sum(14, 16);
 
 /*class Person
 {
@@ -49,9 +48,9 @@ class Person
     }
 }
 
-public class Math
+public static class Math
 {
-    public int Sum(int a, int b)
+    public static int Sum(int a, int b)
     {
         return a + b;
     }
