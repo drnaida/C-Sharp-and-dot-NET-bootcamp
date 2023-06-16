@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicClass", "BasicClass\Ba
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Namespaces", "Namespaces\Namespaces.csproj", "{027612D3-CB44-4D39-A41A-6ED0A24452FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{E85920B2-CC41-41A5-9C04-E78206293BC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{E85920B2-CC41-41A5-9C04-E78206293BC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloading", "MethodOverloading\MethodOverloading.csproj", "{FB31AD52-8B21-4F5A-A765-9C3067B26DDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{E85920B2-CC41-41A5-9C04-E78206293BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E85920B2-CC41-41A5-9C04-E78206293BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E85920B2-CC41-41A5-9C04-E78206293BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB31AD52-8B21-4F5A-A765-9C3067B26DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB31AD52-8B21-4F5A-A765-9C3067B26DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB31AD52-8B21-4F5A-A765-9C3067B26DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB31AD52-8B21-4F5A-A765-9C3067B26DDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
