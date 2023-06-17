@@ -22,21 +22,15 @@ class Temperature
     {
         get
         {
-            if (Unit == TemperatureUnit.Celcius)
+            return Unit switch
             {
-                return Value;
-            }
-
-            if (Unit == TemperatureUnit.Kelvin)
-            {
-                return Value - 273.15m;
-            }
-
-            if (Unit == TemperatureUnit.Fahrenheit)
-            {
-                return (Value - 32) * 5 / 9;
-            }
-            return 0;
+                TemperatureUnit.Celcius when Value > 100 => Math.Round(Value, 0),
+                TemperatureUnit.Celcius => Value,
+                TemperatureUnit.Fahrenheit => (Value - 32) * 5 / 9,
+                TemperatureUnit.Kelvin => (Value - 273.15m),
+                _ => 0,
+            };
+            
         }
     }
 }
