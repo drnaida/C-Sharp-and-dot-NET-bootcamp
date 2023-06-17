@@ -1,0 +1,15 @@
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\polymorphism\bin\Debug\net6.0\polymorphism.exe
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\polymorphism\bin\Debug\net6.0\polymorphism.deps.json
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\polymorphism\bin\Debug\net6.0\polymorphism.runtimeconfig.json
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\polymorphism\bin\Debug\net6.0\polymorphism.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\polymorphism\bin\Debug\net6.0\polymorphism.pdb
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\polymorphism\obj\Debug\net6.0\polymorphism.csproj.AssemblyReference.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\polymorphism\obj\Debug\net6.0\polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\polymorphism\obj\Debug\net6.0\polymorphism.AssemblyInfoInputs.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\polymorphism\obj\Debug\net6.0\polymorphism.AssemblyInfo.cs
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\polymorphism\obj\Debug\net6.0\polymorphism.csproj.CoreCompileInputs.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\polymorphism\obj\Debug\net6.0\polymorphism.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\polymorphism\obj\Debug\net6.0\refint\polymorphism.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\polymorphism\obj\Debug\net6.0\polymorphism.pdb
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\polymorphism\obj\Debug\net6.0\polymorphism.genruntimeconfig.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\polymorphism\obj\Debug\net6.0\ref\polymorphism.dll

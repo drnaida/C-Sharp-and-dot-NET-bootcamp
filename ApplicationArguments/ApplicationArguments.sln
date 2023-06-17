@@ -29,9 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Namespaces", "Namespaces\Na
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{E85920B2-CC41-41A5-9C04-E78206293BC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloading", "MethodOverloading\MethodOverloading.csproj", "{FB31AD52-8B21-4F5A-A765-9C3067B26DDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverloading", "MethodOverloading\MethodOverloading.csproj", "{FB31AD52-8B21-4F5A-A765-9C3067B26DDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{0C3F1B7E-370C-4037-8E3E-CA0F757BB38B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{0C3F1B7E-370C-4037-8E3E-CA0F757BB38B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polymorphism", "polymorphism\polymorphism.csproj", "{5FF48C30-DAB6-40BE-9C97-C5B95711FB49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{0C3F1B7E-370C-4037-8E3E-CA0F757BB38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C3F1B7E-370C-4037-8E3E-CA0F757BB38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C3F1B7E-370C-4037-8E3E-CA0F757BB38B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FF48C30-DAB6-40BE-9C97-C5B95711FB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF48C30-DAB6-40BE-9C97-C5B95711FB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF48C30-DAB6-40BE-9C97-C5B95711FB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF48C30-DAB6-40BE-9C97-C5B95711FB49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
