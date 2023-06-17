@@ -1,0 +1,15 @@
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassingValueTypeParameters\bin\Debug\net6.0\PassingValueTypeParameters.exe
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassingValueTypeParameters\bin\Debug\net6.0\PassingValueTypeParameters.deps.json
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassingValueTypeParameters\bin\Debug\net6.0\PassingValueTypeParameters.runtimeconfig.json
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassingValueTypeParameters\bin\Debug\net6.0\PassingValueTypeParameters.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassingValueTypeParameters\bin\Debug\net6.0\PassingValueTypeParameters.pdb
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassingValueTypeParameters\obj\Debug\net6.0\PassingValueTypeParameters.csproj.AssemblyReference.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassingValueTypeParameters\obj\Debug\net6.0\PassingValueTypeParameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassingValueTypeParameters\obj\Debug\net6.0\PassingValueTypeParameters.AssemblyInfoInputs.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassingValueTypeParameters\obj\Debug\net6.0\PassingValueTypeParameters.AssemblyInfo.cs
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassingValueTypeParameters\obj\Debug\net6.0\PassingValueTypeParameters.csproj.CoreCompileInputs.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassingValueTypeParameters\obj\Debug\net6.0\PassingValueTypeParameters.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassingValueTypeParameters\obj\Debug\net6.0\refint\PassingValueTypeParameters.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassingValueTypeParameters\obj\Debug\net6.0\PassingValueTypeParameters.pdb
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassingValueTypeParameters\obj\Debug\net6.0\PassingValueTypeParameters.genruntimeconfig.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassingValueTypeParameters\obj\Debug\net6.0\ref\PassingValueTypeParameters.dll
