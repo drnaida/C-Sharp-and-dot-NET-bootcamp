@@ -1,0 +1,15 @@
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassReferenceTypeParameters\bin\Debug\net6.0\PassReferenceTypeParameters.exe
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassReferenceTypeParameters\bin\Debug\net6.0\PassReferenceTypeParameters.deps.json
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassReferenceTypeParameters\bin\Debug\net6.0\PassReferenceTypeParameters.runtimeconfig.json
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassReferenceTypeParameters\bin\Debug\net6.0\PassReferenceTypeParameters.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassReferenceTypeParameters\bin\Debug\net6.0\PassReferenceTypeParameters.pdb
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassReferenceTypeParameters\obj\Debug\net6.0\PassReferenceTypeParameters.csproj.AssemblyReference.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassReferenceTypeParameters\obj\Debug\net6.0\PassReferenceTypeParameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassReferenceTypeParameters\obj\Debug\net6.0\PassReferenceTypeParameters.AssemblyInfoInputs.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassReferenceTypeParameters\obj\Debug\net6.0\PassReferenceTypeParameters.AssemblyInfo.cs
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassReferenceTypeParameters\obj\Debug\net6.0\PassReferenceTypeParameters.csproj.CoreCompileInputs.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassReferenceTypeParameters\obj\Debug\net6.0\PassReferenceTypeParameters.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassReferenceTypeParameters\obj\Debug\net6.0\refint\PassReferenceTypeParameters.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassReferenceTypeParameters\obj\Debug\net6.0\PassReferenceTypeParameters.pdb
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassReferenceTypeParameters\obj\Debug\net6.0\PassReferenceTypeParameters.genruntimeconfig.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\PassReferenceTypeParameters\obj\Debug\net6.0\ref\PassReferenceTypeParameters.dll
