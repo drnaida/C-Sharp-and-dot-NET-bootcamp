@@ -1,0 +1,15 @@
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\GroupingDataUsingLINQ\bin\Debug\net6.0\GroupingDataUsingLINQ.exe
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\GroupingDataUsingLINQ\bin\Debug\net6.0\GroupingDataUsingLINQ.deps.json
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\GroupingDataUsingLINQ\bin\Debug\net6.0\GroupingDataUsingLINQ.runtimeconfig.json
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\GroupingDataUsingLINQ\bin\Debug\net6.0\GroupingDataUsingLINQ.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\GroupingDataUsingLINQ\bin\Debug\net6.0\GroupingDataUsingLINQ.pdb
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\GroupingDataUsingLINQ\obj\Debug\net6.0\GroupingDataUsingLINQ.csproj.AssemblyReference.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\GroupingDataUsingLINQ\obj\Debug\net6.0\GroupingDataUsingLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\GroupingDataUsingLINQ\obj\Debug\net6.0\GroupingDataUsingLINQ.AssemblyInfoInputs.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\GroupingDataUsingLINQ\obj\Debug\net6.0\GroupingDataUsingLINQ.AssemblyInfo.cs
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\GroupingDataUsingLINQ\obj\Debug\net6.0\GroupingDataUsingLINQ.csproj.CoreCompileInputs.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\GroupingDataUsingLINQ\obj\Debug\net6.0\GroupingDataUsingLINQ.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\GroupingDataUsingLINQ\obj\Debug\net6.0\refint\GroupingDataUsingLINQ.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\GroupingDataUsingLINQ\obj\Debug\net6.0\GroupingDataUsingLINQ.pdb
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\GroupingDataUsingLINQ\obj\Debug\net6.0\GroupingDataUsingLINQ.genruntimeconfig.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\GroupingDataUsingLINQ\obj\Debug\net6.0\ref\GroupingDataUsingLINQ.dll
