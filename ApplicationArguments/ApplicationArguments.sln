@@ -33,21 +33,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverloading", "Method
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{0C3F1B7E-370C-4037-8E3E-CA0F757BB38B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polymorphism", "polymorphism\polymorphism.csproj", "{5FF48C30-DAB6-40BE-9C97-C5B95711FB49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "polymorphism", "polymorphism\polymorphism.csproj", "{5FF48C30-DAB6-40BE-9C97-C5B95711FB49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedVariableScope", "AdvancedVariableScope\AdvancedVariableScope.csproj", "{2AD47866-B307-4C8C-AEDF-77805E6CD66B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvancedVariableScope", "AdvancedVariableScope\AdvancedVariableScope.csproj", "{2AD47866-B307-4C8C-AEDF-77805E6CD66B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImpliictTyping", "ImpliictTyping\ImpliictTyping.csproj", "{A8EF952C-A28B-40F7-82F4-9FF086BBFA86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImpliictTyping", "ImpliictTyping\ImpliictTyping.csproj", "{A8EF952C-A28B-40F7-82F4-9FF086BBFA86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstKeyword", "ConstKeyword\ConstKeyword.csproj", "{8DD27A8B-BB5D-4A28-A0E4-2675DB48D902}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstKeyword", "ConstKeyword\ConstKeyword.csproj", "{8DD27A8B-BB5D-4A28-A0E4-2675DB48D902}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enumerations", "enumerations\enumerations.csproj", "{FD2D15C0-FA88-41A2-9905-23F5675891FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "enumerations", "enumerations\enumerations.csproj", "{FD2D15C0-FA88-41A2-9905-23F5675891FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct", "Struct\Struct.csproj", "{04A75BCF-FFE9-4CB8-887C-EDF6E7520798}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Struct", "Struct\Struct.csproj", "{04A75BCF-FFE9-4CB8-887C-EDF6E7520798}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassingValueTypeParameters", "PassingValueTypeParameters\PassingValueTypeParameters.csproj", "{E3A4E579-5DB1-4D0F-8A3A-479DC76F7B88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PassingValueTypeParameters", "PassingValueTypeParameters\PassingValueTypeParameters.csproj", "{E3A4E579-5DB1-4D0F-8A3A-479DC76F7B88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassReferenceTypeParameters", "PassReferenceTypeParameters\PassReferenceTypeParameters.csproj", "{D79A024B-69AF-455C-BF85-D860AA2AAC60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PassReferenceTypeParameters", "PassReferenceTypeParameters\PassReferenceTypeParameters.csproj", "{D79A024B-69AF-455C-BF85-D860AA2AAC60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilteringDataUsingLINQ", "FilteringDataUsingLINQ\FilteringDataUsingLINQ.csproj", "{8F1E0FD4-70C4-403F-B8A7-A8B3E25E1E2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{D79A024B-69AF-455C-BF85-D860AA2AAC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D79A024B-69AF-455C-BF85-D860AA2AAC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D79A024B-69AF-455C-BF85-D860AA2AAC60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F1E0FD4-70C4-403F-B8A7-A8B3E25E1E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1E0FD4-70C4-403F-B8A7-A8B3E25E1E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1E0FD4-70C4-403F-B8A7-A8B3E25E1E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1E0FD4-70C4-403F-B8A7-A8B3E25E1E2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

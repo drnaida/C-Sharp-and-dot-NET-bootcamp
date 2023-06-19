@@ -1,0 +1,15 @@
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\FilteringDataUsingLINQ\bin\Debug\net6.0\FilteringDataUsingLINQ.exe
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\FilteringDataUsingLINQ\bin\Debug\net6.0\FilteringDataUsingLINQ.deps.json
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\FilteringDataUsingLINQ\bin\Debug\net6.0\FilteringDataUsingLINQ.runtimeconfig.json
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\FilteringDataUsingLINQ\bin\Debug\net6.0\FilteringDataUsingLINQ.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\FilteringDataUsingLINQ\bin\Debug\net6.0\FilteringDataUsingLINQ.pdb
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\FilteringDataUsingLINQ\obj\Debug\net6.0\FilteringDataUsingLINQ.csproj.AssemblyReference.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\FilteringDataUsingLINQ\obj\Debug\net6.0\FilteringDataUsingLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\FilteringDataUsingLINQ\obj\Debug\net6.0\FilteringDataUsingLINQ.AssemblyInfoInputs.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\FilteringDataUsingLINQ\obj\Debug\net6.0\FilteringDataUsingLINQ.AssemblyInfo.cs
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\FilteringDataUsingLINQ\obj\Debug\net6.0\FilteringDataUsingLINQ.csproj.CoreCompileInputs.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\FilteringDataUsingLINQ\obj\Debug\net6.0\FilteringDataUsingLINQ.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\FilteringDataUsingLINQ\obj\Debug\net6.0\refint\FilteringDataUsingLINQ.dll
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\FilteringDataUsingLINQ\obj\Debug\net6.0\FilteringDataUsingLINQ.pdb
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\FilteringDataUsingLINQ\obj\Debug\net6.0\FilteringDataUsingLINQ.genruntimeconfig.cache
+D:\dev\C-Sharp-and-dot-NET-bootcamp\ApplicationArguments\FilteringDataUsingLINQ\obj\Debug\net6.0\ref\FilteringDataUsingLINQ.dll
